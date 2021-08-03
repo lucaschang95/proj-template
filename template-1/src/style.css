@@ -1,0 +1,8 @@
+.hello {
+    color: royalblue;
+    /* background: url("./webpack-site.svg"); */
+}
+
+img {
+    width: 100px;
+}
